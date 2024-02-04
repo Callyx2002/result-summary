@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://callyx2002.github.io/result-summary/)
 
 ### Built with
 
@@ -53,8 +53,6 @@ I learnt how to first implement mobile design before using media query to do the
 CSS Flexbox and responsive design
 
 ## Author
-
-- Website - [Caleb Arodu](https://www.your-site.com)
 - Frontend Mentor - [@Callyx2002](https://www.frontendmentor.io/profile/@Callyx2002)
 - Twitter - [@CalebArodu](https://www.twitter.com/@CalebArodu)
 - LinkedIn - [Caleb Arodu](https://ng.linkedin.com/in/caleb-arodu-208121249)
